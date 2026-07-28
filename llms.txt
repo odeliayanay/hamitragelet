@@ -1,0 +1,48 @@
+# המתרגלת
+
+> המתרגלת היא מאמנת אישית מבוססת AI להכנה לבחינות הבגרות בישראל לתלמידי חטיבה עליונה. היא בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול קצרה עד המבחן: סיכומים, תרגול ממוקד, סרטוני הסבר ופותר שאלות עם AI.
+
+תחומים: הכנה לבגרות, אזרחות, ביולוגיה, גאוגרפיה, היסטוריה, לשון והבעה, מנהל וכלכלה, מתמטיקה (3/4/5 יח"ל), ספרות, תנ"ך.
+קהל: תלמידות ותלמידים בחטיבה העליונה בישראל, וכן הורים ומורים.
+מחירון: מסלול חינמי, מסלול פרימיום שנתי (₪149.90), ומסלול בתי ספר בהתאמה.
+שפה: עברית בלבד.
+
+## עמודים מרכזיים
+
+- [דף הבית](https://bagrutai.co.il/): הסבר על השירות, איך זה עובד, מקצועות נתמכים, תמחור ושאלות נפוצות.
+- [הורדת האפליקציה](https://bagrutai.co.il/download): קישורים ל-App Store ול-Google Play.
+- [בלוג](https://bagrutai.co.il/blog/): מדריכים וטיפים להכנה לבגרות.
+- [מרכז המקצועות](https://bagrutai.co.il/subjects/): שיטות זיכרון, דגשים ו-3 טיפים מהירים לכל אחד מ-9 מקצועות הבגרות.
+- [מבחן: איזה מקצוע מוגבר מתאים לי](https://bagrutai.co.il/subjects/quiz.html): שאלון קצר של 5 שאלות לכיוון בחירת מקצוע מוגבר.
+- [מיקוד לבחינות הבגרות תשפ"ז](https://bagrutai.co.il/mikud/): קישור לכל מקצוע לעמוד המיקוד הרשמי והמתעדכן של משרד החינוך, לצד סרטון היכרות עם המתרגלת.
+
+## מדריכי מקצוע
+
+- [אזרחות](https://bagrutai.co.il/subjects/ezrachut.html)
+- [ביולוגיה](https://bagrutai.co.il/subjects/biologia.html)
+- [גאוגרפיה](https://bagrutai.co.il/subjects/geografia.html)
+- [היסטוריה](https://bagrutai.co.il/subjects/historia.html)
+- [לשון והבעה](https://bagrutai.co.il/subjects/lashon.html)
+- [מנהל וכלכלה](https://bagrutai.co.il/subjects/minhal-calcala.html)
+- [מתמטיקה](https://bagrutai.co.il/subjects/matematika.html)
+- [ספרות](https://bagrutai.co.il/subjects/sifrut.html)
+- [תנ״ך](https://bagrutai.co.il/subjects/tanach.html)
+
+## מאמרי בלוג
+
+- [איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב](https://bagrutai.co.il/blog/matematika-bagrut-madrich.html): תוכנית עבודה מעשית למיפוי ידע, סדר עדיפויות ותרגול ממוקד.
+- [3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט](https://bagrutai.co.il/blog/kfum-yechidot-limud-matematika.html): ההבדלים בין רמות הלימוד ומה כדאי לשקול לפני שבוחרים.
+- [חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת](https://bagrutai.co.il/blog/hachadat-bechinot-bagrut.html): כלים מעשיים להתמודדות עם לחץ לפני ובמהלך בחינה.
+- [איך למידה אדפטיבית עם AI משנה את ההכנה לבגרות](https://bagrutai.co.il/blog/limud-adaptivi-im-ai.html): איך תרגול מותאם אישית עובד ומה הוא לא מחליף.
+- [טעויות נפוצות בבגרות באנגלית ואיך להימנע מהן](https://bagrutai.co.il/blog/tayot-bagrut-anglit.html): הבנת הנקרא, כתיבה ודקדוק.
+- [תוכנית תרגול שבועית לבגרות: איך לבנות לוח זמנים שעובד](https://bagrutai.co.il/blog/tochnit-tirgul-shvuit-bagrut.html): בניית תוכנית תרגול ריאלית ומתעדכנת.
+
+## מידע משפטי
+
+- [תנאי שימוש](https://bagrutai.co.il/terms)
+- [מדיניות פרטיות](https://bagrutai.co.il/privacy)
+- [הצהרת נגישות](https://bagrutai.co.il/accessibility)
+
+## יצירת קשר
+
+support@bagrutai.co.il

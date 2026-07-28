@@ -1,0 +1,53 @@
+# המתרגלת — robots.txt
+# מדיניות: לאפשר לכל מנוע חיפוש רגיל + לבוטים של AI ש"מציטטים" תוכן (AEO),
+# ולחסום בוטים שאוספים תוכן רק לאימון מודלים בלי ייחוס/הפניה חזרה לאתר.
+# אפשר לשנות מדיניות זו בקלות — כל שורת User-agent עומדת בפני עצמה.
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# ---- מנועי חיפוש AI / בוטים שמצטטים ומפנים תנועה (AEO — מומלץ להשאיר מותר) ----
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# ---- בוטי אימון מודלים בלבד (לא מציגים הפניה/ציטוט חזרה) ----
+# חסומים כברירת מחדל כדי שהתוכן לא "יאומן עליו" בלי קרדיט. ניתן לפתוח בקלות ע"י מחיקת השורה.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://bagrutai.co.il/sitemap.xml

@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>המתרגלת | מאמנת אישית לבגרויות מבוססת AI</title>
+<meta name="description" content="המתרגלת היא המאמנת האישית שלך לבגרויות — בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול עד המבחן. סיכומים, תרגול, סרטונים ופותר שאלות עם AI, בעברית מלאה.">
+<link rel="canonical" href="https://bagrutai.co.il/">
+
+<!-- Open Graph / AEO -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="המתרגלת">
+<meta property="og:title" content="המתרגלת | מאמנת אישית לבגרויות מבוססת AI">
+<meta property="og:description" content="בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול קצרה עד המבחן — לכל תלמיד ותלמידה בחטיבה העליונה.">
+<meta property="og:image" content="https://bagrutai.co.il/assets/images/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="he_IL">
+<meta property="og:url" content="https://bagrutai.co.il/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="המתרגלת | מאמנת אישית לבגרויות">
+<meta name="twitter:description" content="בודקת מה חסר ובונה תוכנית תרגול עד הבגרות — מותאם אישית עם AI.">
+<meta name="twitter:image" content="https://bagrutai.co.il/assets/images/og-image.jpg">
+
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="בלוג המתרגלת" href="blog/feed.xml">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- Organization schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "המתרגלת",
+  "alternateName": "BagrutAI",
+  "url": "https://bagrutai.co.il/",
+  "logo": "https://bagrutai.co.il/assets/images/mascot.png",
+  "description": "המתרגלת היא מאמנת אישית מבוססת AI להכנה לבחינות הבגרות בישראל: בדיקת ידע, סיכומים, תרגול ממוקד וסרטוני הסבר.",
+  "email": "support@bagrutai.co.il",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "support@bagrutai.co.il",
+    "contactType": "customer support",
+    "areaServed": "IL",
+    "availableLanguage": ["Hebrew"]
+  }
+}
+</script>
+<!-- WebSite + Sitelinks search schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "המתרגלת",
+  "url": "https://bagrutai.co.il/",
+  "inLanguage": "he",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://bagrutai.co.il/blog/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<!-- SoftwareApplication schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "המתרגלת",
+  "operatingSystem": "Android, iOS",
+  "applicationCategory": "EducationApplication",
+  "url": "https://bagrutai.co.il/download",
+  "description": "אפליקציה אישית להכנה לבגרויות: בדיקת ידע, סיכומים, תרגול מותאם וסרטוני הסבר, עם מסלול חינמי ומסלול פרימיום.",
+  "offers": [
+    {"@type":"Offer","name":"חינם","price":"0","priceCurrency":"ILS"},
+    {"@type":"Offer","name":"פרימיום שנתי","price":"149.90","priceCurrency":"ILS"}
+  ]
+}
+</script>
+<!-- FAQPage schema (mirrors the visible FAQ section below, verbatim) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"מי זו המתרגלת?","acceptedAnswer":{"@type":"Answer","text":"המתרגלת היא המאמנת האישית שלך באפליקציה — היא בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול עד המבחן."}},
+    {"@type":"Question","name":"יש לי מבחן בעוד יומיים — מאיפה מתחילים?","acceptedAnswer":{"@type":"Answer","text":"בוחרים את המקצוע והמבחן ומתחילים בבדיקת ידע קצרה. לפי התשובות המתרגלת בונה סדר עדיפויות שמראה מה כדאי ללמוד ולתרגל קודם."}},
+    {"@type":"Question","name":"אילו מקצועות נתמכים?","acceptedAnswer":{"@type":"Answer","text":"האפליקציה תומכת במגוון מקצועות לחטיבה העליונה — ביניהם אזרחות, ביולוגיה, גאוגרפיה, היסטוריה, לשון והבעה, מנהל וכלכלה, מתמטיקה, ספרות ותנ\"ך — וברמות לימוד שונות."}},
+    {"@type":"Question","name":"איך המתרגלת יודעת מה להמליץ?","acceptedAnswer":{"@type":"Answer","text":"היא מנתחת את התשובות, רמת הקושי ודפוסי הטעויות שלך, וממליצה על הנושא, הסיכום או התרגול שכדאי לפתוח בהמשך."}},
+    {"@type":"Question","name":"מה קורה כשלא מבינים תרגיל?","acceptedAnswer":{"@type":"Answer","text":"לצד התרגיל אפשר לפתוח הסבר וידאו שמציג את דרך הפתרון, לחזור לשלב שלא היה ברור ואז לנסות שוב."}},
+    {"@type":"Question","name":"האם יש גרסה חינמית?","acceptedAnswer":{"@type":"Answer","text":"כן. אפשר להוריד את האפליקציה ולהתחיל בחינם, ולשדרג למסלול רחב יותר כשצריך."}}
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">דלגו לתוכן</a>
+
+<div class="topbar">
+  <div class="container">
+    <div class="topbar-links">
+      <a href="mailto:support@bagrutai.co.il">support@bagrutai.co.il</a>
+      <span>נבנה עבור תלמידי החטיבה העליונה בישראל 🇮🇱</span>
+    </div>
+    <div class="topbar-links">
+      <a href="https://bagrutai.co.il/download">הורידו את האפליקציה</a>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="brand">
+      <img src="assets/images/mascot.png" alt="המתרגלת — לוגו" width="42" height="42">
+      <span>המתרגלת</span>
+    </a>
+    <nav class="main-nav" id="mainNav" aria-label="ניווט ראשי">
+      <a href="#features">מה מקבלים</a>
+      <a href="#how">איך זה עובד</a>
+      <a href="#coach">המתרגלת</a>
+      <a href="#subjects">מקצועות</a>
+      <a href="subjects/index.html">מדריכי לימוד</a>
+      <a href="blog/index.html">בלוג</a>
+      <a href="mikud/index.html">מיקוד</a>
+      <a href="#pricing">מחירים</a>
+      <a href="#faq">שאלות נפוצות</a>
+    </nav>
+    <div class="header-cta">
+      <a href="https://bagrutai.co.il/admin/login" class="btn btn-outline btn-sm">התחברות</a>
+      <a href="https://bagrutai.co.il/download" class="btn btn-primary btn-sm">הורידו עכשיו</a>
+      <button class="nav-toggle" id="navToggle" aria-label="פתיחת ניווט" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-copy">
+        <span class="eyebrow">מאמנת אישית מבוססת AI</span>
+        <h1>בודקים מה חסר. מתרגלים מה שחשוב. מגיעים מוכנים לבגרות.</h1>
+        <p class="lead">המתרגלת בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול קצרה עד המבחן — לכל תלמיד ותלמידה בחטיבה העליונה.</p>
+        <div class="hero-actions">
+          <a href="https://bagrutai.co.il/download" class="btn btn-primary">להתחיל עם המתרגלת</a>
+          <a href="#how" class="btn btn-outline">איך היא עובדת</a>
+        </div>
+        <div class="store-badges">
+          <a href="https://bagrutai.co.il/download" aria-label="הורידו ל-iOS מ-App Store"><img src="assets/images/appstore-badge.svg" alt="הורידו ב-App Store" height="44"></a>
+          <a href="https://play.google.com/store/apps/details?id=com.bagrutai" aria-label="הורידו ל-Android מ-Google Play"><img src="assets/images/googleplay-badge.png" alt="הורידו ב-Google Play" height="44"></a>
+        </div>
+        <div class="hero-stats">
+          <div><strong>9</strong><span>מקצועות מרכזיים בחט"ע</span></div>
+          <div><strong>100%</strong><span>בעברית, מותאם לתוכנית הלימודים</span></div>
+          <div><strong>AI</strong><span>פותר שאלות והסברים לפי הפער שלך</span></div>
+        </div>
+      </div>
+      <div class="hero-media">
+        <img src="assets/images/hero-composite.jpg" alt="מסכי אפליקציית המתרגלת האמיתיים — בית האפליקציה ותרגול מתמטיקה — לצד דמות הרובוט של המתרגלת" width="1300" height="1000" loading="eager">
+      </div>
+    </div>
+  </section>
+
+  <div class="trust-strip">
+    <div class="container">
+      <div class="item"><strong>בדיקת מצב</strong><span>לפני שמתרגלים — לא אחרי</span></div>
+      <div class="item"><strong>תוכנית שמתעדכנת</strong><span>עם כל תשובה, עד המבחן</span></div>
+      <div class="item"><strong>הסבר וידאו</strong><span>לכל תרגיל שנתקעים בו</span></div>
+      <div class="item"><strong>פרטיות</strong><span>המידע שלך לא משותף לצדדים שלישיים</span></div>
+    </div>
+  </div>
+
+  <!-- FEATURES -->
+  <section id="features">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">מה מקבלים</span>
+        <h2>כל מה שצריך, במקום אחד</h2>
+        <p>סיכומים, תרגול, סרטונים ופותר שאלות — לפי מה שחסר לכם עכשיו.</p>
+      </div>
+      <div class="grid grid-4">
+        <div class="card">
+          <div class="icon">📋</div>
+          <h3>סיכום של מה שצריך לדעת עכשיו</h3>
+          <p>עיקרי הנושא, מושגים שחייבים לזכור וטעויות נפוצות — בלי לקרוא שוב פרק שלם.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🎯</div>
+          <h3>התרגילים שהכי חשוב לפתור</h3>
+          <p>מתרגלים לפי הנושא, הרמה והפערים שהתגלו בבדיקת הידע — לא שאלות אקראיות.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🎬</div>
+          <h3>הסבר וידאו בדיוק כשצריך</h3>
+          <p>נתקעת? רואים את דרך החשיבה שלב־אחר־שלב, חוזרים לנקודה שלא הייתה ברורה ומנסים שוב.</p>
+        </div>
+        <div class="card">
+          <div class="icon">📅</div>
+          <h3>המתרגלת מסדרת את הזמן שנשאר</h3>
+          <p>כל תשובה מעדכנת את התוכנית: מה ללמוד עכשיו, כמה לתרגל ומתי לעבור לנושא הבא.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section id="how" class="section-alt">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">איך זה עובד</span>
+        <h2>כך מתכוננים למבחן</h2>
+        <p>מתחילים מהמבחן ומהידע שלך — לא מהעמוד הראשון במחברת.</p>
+      </div>
+      <div class="grid grid-4">
+        <div class="card">
+          <span class="step-no">01</span>
+          <h3>מגדירים את המבחן</h3>
+          <p>בוחרים מקצוע, נושא ומתי נבחנים.</p>
+        </div>
+        <div class="card">
+          <span class="step-no">02</span>
+          <h3>עושים בדיקת מצב</h3>
+          <p>כמה שאלות מגלות מה ידוע ומה עדיין חסר.</p>
+        </div>
+        <div class="card">
+          <span class="step-no">03</span>
+          <h3>עובדים לפי עדיפות</h3>
+          <p>סיכום, תרגילים וסרטונים בסדר הנכון.</p>
+        </div>
+        <div class="card">
+          <span class="step-no">04</span>
+          <h3>בודקים שוב מוכנות</h3>
+          <p>התוכנית מתעדכנת עם כל תשובה עד המבחן.</p>
+        </div>
+      </div>
+      <p style="max-width:720px;margin:36px auto 0;text-align:center;color:var(--ink-600)">השיטה מבוססת על עיקרון פדגוגי מוכר: קודם מבצעים הערכה מאבחנת קצרה, ואז מתרגלים באופן ממוקד את מה שהתגלה כחסר. גישה כזו, המשלבת אבחון ראשוני עם תרגול שיטתי, נחשבת יעילה יותר מתרגול אקראי ברוב מקרי הלמידה — וזה מה שהמתרגלת עושה אוטומטית בכל מקצוע.</p>
+    </div>
+  </section>
+
+  <!-- REAL APP SCREENS -->
+  <section id="inside-app">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">בתוך האפליקציה</span>
+        <h2>כך זה נראה באמת</h2>
+        <p>לא הדמיה — מסכי אמת מתוך אפליקציית המתרגלת.</p>
+      </div>
+      <div class="grid grid-2">
+        <div class="card" style="text-align:center">
+          <img src="assets/images/app-screen-1.png" alt="מסך הבית האמיתי של אפליקציית המתרגלת עם נושאי הלימוד ומעקב התקדמות" loading="lazy" style="border-radius:14px;margin-bottom:16px;max-height:420px;object-fit:contain">
+          <h3>מסך הבית: נושאים ומעקב</h3>
+          <p>רואים בבת אחת את נושאי הלימוד הרלוונטיים ואת ההתקדמות בכל אחד מהם.</p>
+        </div>
+        <div class="card" style="text-align:center">
+          <img src="assets/images/app-screen-2.png" alt="מסך תרגול שאלה אמיתי מתוך אפליקציית המתרגלת, כולל בדיקת תשובה אוטומטית" loading="lazy" style="border-radius:14px;margin-bottom:16px;max-height:420px;object-fit:contain">
+          <h3>תרגול עם בדיקה מיידית</h3>
+          <p>עונים על שאלה, והמערכת בודקת ומסבירה — בלי לחכות למורה.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- COACH -->
+  <section id="coach">
+    <div class="container split" style="justify-items:center;text-align:center">
+      <img src="assets/images/coach-visual.jpg" alt="המתרגלת מסבירה תרגיל במשפט פיתגורס לצד מסך תרגול אמיתי מתוך האפליקציה" width="1160" height="880" loading="lazy" style="display:block;margin:0 auto;max-width:440px;width:100%;height:auto">
+      <div style="max-width:520px">
+        <span class="eyebrow" style="justify-content:center">המאמנת האישית</span>
+        <h2>המתרגלת יודעת מה כבר ידוע — ומה עוד חסר עד המבחן.</h2>
+        <p class="lead">היא מזהה פערים מתוך התשובות שלך והופכת אותם למשימות קצרות: סיכום, תרגול או סרטון — בדיוק מה שצריך עכשיו.</p>
+        <ul class="checklist" style="display:inline-grid;text-align:right;margin:20px auto 0">
+          <li>מזהה דפוסי טעויות, לא רק ציון</li>
+          <li>מתאימה את הרמה תוך כדי התרגול</li>
+          <li>מחברת בין הסיכום, התרגיל והסרטון הבא</li>
+        </ul>
+        <div class="hero-actions" style="justify-content:center;display:flex"><a href="https://bagrutai.co.il/download" class="btn btn-primary">להכיר את המתרגלת</a></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SUBJECTS -->
+  <section id="subjects" class="section-alt">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">מקצועות</span>
+        <h2>המבחן הקרוב שלך נמצא כאן</h2>
+        <p>בוחרים את המקצוע והרמה, ורואים גם שיטות זיכרון ודגשים ממוקדים לכל מקצוע.</p>
+      </div>
+      <div class="subjects-grid">
+        <a class="subject-chip" href="subjects/ezrachut.html">אזרחות <span class="unit">2 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/biologia.html">ביולוגיה <span class="unit">5 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/geografia.html">גאוגרפיה <span class="unit">3 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/historia.html">היסטוריה <span class="unit">2 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/lashon.html">לשון והבעה <span class="unit">2 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/minhal-calcala.html">מנהל וכלכלה <span class="unit">5 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/matematika.html">מתמטיקה <span class="unit">3 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/sifrut.html">ספרות <span class="unit">2 יח"ל</span></a>
+        <a class="subject-chip" href="subjects/tanach.html">תנ״ך <span class="unit">2 יח"ל</span></a>
+      </div>
+      <div style="text-align:center;margin-top:28px">
+        <a href="subjects/quiz.html" class="btn btn-outline">לא בטוחים איזה מקצוע מוגבר לבחור? עשו את המבחן הקצר ←</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOG TEASER -->
+  <section id="blog-teaser">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">מהבלוג</span>
+        <h2>טיפים ומדריכים להכנה לבגרות</h2>
+        <p>תוכן מעשי שכתבנו כדי לעזור לכם להתכונן נכון — לא רק לתרגל.</p>
+      </div>
+      <div class="post-mini-grid">
+        <a class="post-card" href="blog/matematika-bagrut-madrich.html">
+          <div class="thumb"><img src="assets/images/app-screen-2.png" alt="מדריך הכנה לבגרות במתמטיקה" loading="lazy"></div>
+          <div class="body">
+            <span class="tag">מתמטיקה</span>
+            <h3>איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב</h3>
+            <p class="excerpt">תוכנית עבודה מעשית שממירה חוסר ודאות לסדר פעולות ברור לפני המבחן.</p>
+          </div>
+        </a>
+        <a class="post-card" href="blog/kfum-yechidot-limud-matematika.html">
+          <div class="thumb"><img src="assets/images/feature-math-clean.jpg" alt="3 4 או 5 יחידות מתמטיקה" loading="lazy"></div>
+          <div class="body">
+            <span class="tag">בחירת מסלול</span>
+            <h3>3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט</h3>
+            <p class="excerpt">מה בין רמת הלימוד לציון הבגרות בפועל, ומה כדאי לבדוק לפני שמחליטים.</p>
+          </div>
+        </a>
+        <a class="post-card" href="blog/hachadat-bechinot-bagrut.html">
+          <div class="thumb"><img src="assets/images/topic-calm.jpg" alt="התמודדות עם חרדת בחינות בגרות" loading="lazy"></div>
+          <div class="body">
+            <span class="tag">רווחה נפשית</span>
+            <h3>חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת</h3>
+            <p class="excerpt">כלים מעשיים להירגע, להתמקד ולהיכנס למבחן עם ראש פנוי.</p>
+          </div>
+        </a>
+      </div>
+      <div style="text-align:center;margin-top:32px"><a href="blog/index.html" class="btn btn-outline">לכל המאמרים בבלוג ←</a></div>
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section id="pricing" class="section-alt">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">מחירים</span>
+        <h2>מתחילים בחינם. רואים מה צריך לחזק.</h2>
+        <p>בוחרים את המסלול שמתאים למספר המקצועות ולכמות התרגול שלכם — בלי התחייבות.</p>
+      </div>
+      <div class="pricing-grid">
+        <div class="price-card">
+          <h3>חינם</h3>
+          <p>התחלה מצוינת להכיר את האפליקציה.</p>
+          <div class="amount">₪0 <span>לתמיד</span></div>
+          <ul>
+            <li>מקצוע אחד לבחירה</li>
+            <li>עד 10 שאלות ביום</li>
+            <li>עד 2 נושאים ביום</li>
+            <li>מתרגלת בית ללא הגבלה</li>
+            <li>מעקב התקדמות ורצף ימים</li>
+          </ul>
+          <a href="https://bagrutai.co.il/download" class="btn btn-outline btn-block">הורידו עכשיו</a>
+        </div>
+        <div class="price-card featured">
+          <span class="ribbon">הכי פופולרי</span>
+          <h3>פרימיום</h3>
+          <p>כל הכלים כדי למקסם את הציון בכל מקצוע.</p>
+          <div class="amount">₪149.90 <span>לשנה</span></div>
+          <ul>
+            <li>כל המקצועות ללא הגבלה</li>
+            <li>שאלות ונושאים ללא הגבלה</li>
+            <li>פותר שאלות עם AI</li>
+            <li>סרטונים ותרגול ללא הגבלה</li>
+            <li>מסלול לימוד אישי עם המתרגלת</li>
+          </ul>
+          <a href="https://bagrutai.co.il/download" class="btn btn-primary btn-block">מתחילים פרימיום</a>
+        </div>
+        <div class="price-card">
+          <h3>בתי ספר</h3>
+          <p>פתרון למורים ולבתי ספר עם ניהול כיתות.</p>
+          <div class="amount">מותאם <span>לכיתה</span></div>
+          <ul>
+            <li>לוח בקרה למורה</li>
+            <li>מעקב אחר כל התלמידים</li>
+            <li>משימות ותרגולים מותאמים</li>
+            <li>תמיכה ייעודית</li>
+          </ul>
+          <a href="mailto:support@bagrutai.co.il" class="btn btn-outline btn-block">דברו איתנו</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq">
+    <div class="container">
+      <div class="section-head center">
+        <span class="eyebrow" style="justify-content:center">שאלות נפוצות</span>
+        <h2>לפני שמתחילים לתרגל</h2>
+      </div>
+      <div class="faq-list">
+        <details class="faq-item"><summary>מי זו המתרגלת?</summary><div class="faq-a">המתרגלת היא המאמנת האישית שלך באפליקציה — היא בודקת מה כבר ידוע, מראה מה חסר ובונה תוכנית תרגול עד המבחן.</div></details>
+        <details class="faq-item"><summary>יש לי מבחן בעוד יומיים — מאיפה מתחילים?</summary><div class="faq-a">בוחרים את המקצוע והמבחן ומתחילים בבדיקת ידע קצרה. לפי התשובות המתרגלת בונה סדר עדיפויות שמראה מה כדאי ללמוד ולתרגל קודם.</div></details>
+        <details class="faq-item"><summary>אילו מקצועות נתמכים?</summary><div class="faq-a">האפליקציה תומכת במגוון מקצועות לחטיבה העליונה — ביניהם אזרחות, ביולוגיה, גאוגרפיה, היסטוריה, לשון והבעה, מנהל וכלכלה, מתמטיקה, ספרות ותנ"ך — וברמות לימוד שונות.</div></details>
+        <details class="faq-item"><summary>איך המתרגלת יודעת מה להמליץ?</summary><div class="faq-a">היא מנתחת את התשובות, רמת הקושי ודפוסי הטעויות שלך, וממליצה על הנושא, הסיכום או התרגול שכדאי לפתוח בהמשך.</div></details>
+        <details class="faq-item"><summary>מה קורה כשלא מבינים תרגיל?</summary><div class="faq-a">לצד התרגיל אפשר לפתוח הסבר וידאו שמציג את דרך הפתרון, לחזור לשלב שלא היה ברור ואז לנסות שוב.</div></details>
+        <details class="faq-item"><summary>האם יש גרסה חינמית?</summary><div class="faq-a">כן. אפשר להוריד את האפליקציה ולהתחיל בחינם, ולשדרג למסלול רחב יותר כשצריך.</div></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section>
+    <div class="container">
+      <div class="cta-banner">
+        <div>
+          <h3>מוכנים לפגוש את המתרגלת?</h3>
+          <p>מורידים את האפליקציה, בוחרים את המבחן ועונים על כמה שאלות כדי לקבל סדר עדיפויות.</p>
+        </div>
+        <div class="store-badges" style="margin-top:0">
+          <a href="https://bagrutai.co.il/download" aria-label="הורידו ל-iOS מ-App Store"><img src="assets/images/appstore-badge.svg" alt="הורידו ב-App Store" height="46"></a>
+          <a href="https://play.google.com/store/apps/details?id=com.bagrutai" aria-label="הורידו ל-Android מ-Google Play"><img src="assets/images/googleplay-badge.png" alt="הורידו ב-Google Play" height="46"></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="index.html" class="brand"><img src="assets/images/mascot.png" alt="המתרגלת" width="42" height="42"><span>המתרגלת</span></a>
+        <p>המתרגלת — מאמנת אישית לבגרויות בחטיבה העליונה: סיכומים, תרגילים, הסברים ומסלול שמתעדכן לפי הידע שלך.</p>
+        <div class="social-row" aria-label="רשתות חברתיות">
+          <a href="#" aria-label="אינסטגרם">📷</a>
+          <a href="#" aria-label="טיקטוק">🎵</a>
+          <a href="#" aria-label="פייסבוק">📘</a>
+        </div>
+      </div>
+      <div>
+        <h4>מוצר</h4>
+        <div class="footer-links">
+          <a href="#features">מה מקבלים</a>
+          <a href="#coach">המתרגלת</a>
+          <a href="#subjects">מקצועות</a>
+          <a href="#pricing">מחירים</a>
+        </div>
+      </div>
+      <div>
+        <h4>מידע</h4>
+        <div class="footer-links">
+          <a href="blog/index.html">בלוג</a>
+          <a href="#faq">שאלות נפוצות</a>
+          <a href="https://bagrutai.co.il/download">הורדת האפליקציה</a>
+          <a href="mailto:support@bagrutai.co.il">צור קשר</a>
+        </div>
+      </div>
+      <div>
+        <h4>משפטי</h4>
+        <div class="footer-links">
+          <a href="https://bagrutai.co.il/terms">תנאי שימוש</a>
+          <a href="https://bagrutai.co.il/privacy">מדיניות פרטיות</a>
+          <a href="https://bagrutai.co.il/accessibility">נגישות</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> המתרגלת. כל הזכויות שמורות.</span>
+      <span>נבנה עבור תלמידי החטיבה העליונה בישראל</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
