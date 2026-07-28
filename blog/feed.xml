@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>בלוג המתרגלת</title>
+  <link>https://bagrutai.co.il/blog/</link>
+  <description>מדריכים וטיפים להכנה לבחינות הבגרות</description>
+  <language>he</language>
+  <atom:link href="https://bagrutai.co.il/blog/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב</title>
+    <link>https://bagrutai.co.il/blog/matematika-bagrut-madrich.html</link>
+    <guid>https://bagrutai.co.il/blog/matematika-bagrut-madrich.html</guid>
+    <description>תוכנית עבודה מעשית שממירה חוסר ודאות לסדר פעולות ברור לפני המבחן.</description>
+  </item>
+  <item>
+    <title>3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט</title>
+    <link>https://bagrutai.co.il/blog/kfum-yechidot-limud-matematika.html</link>
+    <guid>https://bagrutai.co.il/blog/kfum-yechidot-limud-matematika.html</guid>
+    <description>מה בין רמת הלימוד לציון הבגרות בפועל, ומה כדאי לבדוק לפני שמחליטים.</description>
+  </item>
+  <item>
+    <title>חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת</title>
+    <link>https://bagrutai.co.il/blog/hachadat-bechinot-bagrut.html</link>
+    <guid>https://bagrutai.co.il/blog/hachadat-bechinot-bagrut.html</guid>
+    <description>כלים מעשיים להירגע, להתמקד ולהיכנס למבחן עם ראש פנוי.</description>
+  </item>
+  <item>
+    <title>איך למידה אדפטיבית עם AI משנה את ההכנה לבגרות</title>
+    <link>https://bagrutai.co.il/blog/limud-adaptivi-im-ai.html</link>
+    <guid>https://bagrutai.co.il/blog/limud-adaptivi-im-ai.html</guid>
+    <description>מה זה למידה אדפטיבית, ואיך היא בונה תוכנית תרגול מותאמת אישית.</description>
+  </item>
+  <item>
+    <title>טעויות נפוצות בבגרות באנגלית ואיך להימנע מהן</title>
+    <link>https://bagrutai.co.il/blog/tayot-bagrut-anglit.html</link>
+    <guid>https://bagrutai.co.il/blog/tayot-bagrut-anglit.html</guid>
+    <description>הבנת הנקרא, כתיבה ודקדוק — הטעויות שחוזרות שוב ושוב.</description>
+  </item>
+  <item>
+    <title>תוכנית תרגול שבועית לבגרות: איך לבנות לוח זמנים שעובד</title>
+    <link>https://bagrutai.co.il/blog/tochnit-tirgul-shvuit-bagrut.html</link>
+    <guid>https://bagrutai.co.il/blog/tochnit-tirgul-shvuit-bagrut.html</guid>
+    <description>הערכת זמן פנוי, חלוקה לפי משקל המקצועות ומרווחי חזרה שמונעים שכחה.</description>
+  </item>
+</channel>
+</rss>
