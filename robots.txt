@@ -50,4 +50,4 @@ Disallow: /
 User-agent: Bytespider
 Disallow: /
 
-Sitemap: https://bagrutai.co.il/sitemap.xml
+Sitemap: https://odeliayanay.github.io/hamitragelet/sitemap.xml

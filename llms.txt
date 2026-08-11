@@ -9,35 +9,35 @@
 
 ## עמודים מרכזיים
 
-- [דף הבית](https://bagrutai.co.il/): הסבר על השירות, איך זה עובד, מקצועות נתמכים, תמחור ושאלות נפוצות.
+- [דף הבית](https://odeliayanay.github.io/hamitragelet/): הסבר על השירות, איך זה עובד, מקצועות נתמכים, תמחור ושאלות נפוצות.
 - [הורדת האפליקציה](https://bagrutai.co.il/download): קישורים ל-App Store ול-Google Play.
-- [בלוג](https://bagrutai.co.il/blog/): מדריכים וטיפים להכנה לבגרות.
-- [מרכז המקצועות](https://bagrutai.co.il/subjects/): שיטות זיכרון, דגשים ו-3 טיפים מהירים לכל אחד מ-9 מקצועות הבגרות.
-- [מבחן: איזה מקצוע מוגבר מתאים לי](https://bagrutai.co.il/subjects/quiz.html): שאלון קצר של 5 שאלות לכיוון בחירת מקצוע מוגבר.
-- [מיקוד לבחינות הבגרות תשפ"ז](https://bagrutai.co.il/mikud/): קישור לכל מקצוע לעמוד המיקוד הרשמי והמתעדכן של משרד החינוך, לצד סרטון היכרות עם המתרגלת.
+- [בלוג](https://odeliayanay.github.io/hamitragelet/blog/): מדריכים וטיפים להכנה לבגרות.
+- [מרכז המקצועות](https://odeliayanay.github.io/hamitragelet/subjects/): שיטות זיכרון, דגשים ו-3 טיפים מהירים לכל אחד מ-9 מקצועות הבגרות.
+- [מבחן: איזה מקצוע מוגבר מתאים לי](https://odeliayanay.github.io/hamitragelet/subjects/quiz.html): שאלון קצר של 5 שאלות לכיוון בחירת מקצוע מוגבר.
+- [מיקוד לבחינות הבגרות תשפ"ז](https://odeliayanay.github.io/hamitragelet/mikud/): קישור לכל מקצוע לעמוד המיקוד הרשמי והמתעדכן של משרד החינוך, לצד סרטון היכרות עם המתרגלת.
 
 ## מדריכי מקצוע
 
-- [אזרחות](https://bagrutai.co.il/subjects/ezrachut.html)
-- [ביולוגיה](https://bagrutai.co.il/subjects/biologia.html)
-- [גאוגרפיה](https://bagrutai.co.il/subjects/geografia.html)
-- [היסטוריה](https://bagrutai.co.il/subjects/historia.html)
-- [לשון והבעה](https://bagrutai.co.il/subjects/lashon.html)
-- [מנהל וכלכלה](https://bagrutai.co.il/subjects/minhal-calcala.html)
-- [מתמטיקה](https://bagrutai.co.il/subjects/matematika.html)
-- [ספרות](https://bagrutai.co.il/subjects/sifrut.html)
-- [תנ״ך](https://bagrutai.co.il/subjects/tanach.html)
+- [אזרחות](https://odeliayanay.github.io/hamitragelet/subjects/ezrachut.html)
+- [ביולוגיה](https://odeliayanay.github.io/hamitragelet/subjects/biologia.html)
+- [גאוגרפיה](https://odeliayanay.github.io/hamitragelet/subjects/geografia.html)
+- [היסטוריה](https://odeliayanay.github.io/hamitragelet/subjects/historia.html)
+- [לשון והבעה](https://odeliayanay.github.io/hamitragelet/subjects/lashon.html)
+- [מנהל וכלכלה](https://odeliayanay.github.io/hamitragelet/subjects/minhal-calcala.html)
+- [מתמטיקה](https://odeliayanay.github.io/hamitragelet/subjects/matematika.html)
+- [ספרות](https://odeliayanay.github.io/hamitragelet/subjects/sifrut.html)
+- [תנ״ך](https://odeliayanay.github.io/hamitragelet/subjects/tanach.html)
 
 ## מאמרי בלוג
 
-- [איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב](https://bagrutai.co.il/blog/matematika-bagrut-madrich.html): תוכנית עבודה מעשית למיפוי ידע, סדר עדיפויות ותרגול ממוקד.
-- [3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט](https://bagrutai.co.il/blog/kfum-yechidot-limud-matematika.html): ההבדלים בין רמות הלימוד ומה כדאי לשקול לפני שבוחרים.
-- [חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת](https://bagrutai.co.il/blog/hachadat-bechinot-bagrut.html): כלים מעשיים להתמודדות עם לחץ לפני ובמהלך בחינה.
-- [איך למידה אדפטיבית עם AI משנה את ההכנה לבגרות](https://bagrutai.co.il/blog/limud-adaptivi-im-ai.html): איך תרגול מותאם אישית עובד ומה הוא לא מחליף.
-- [טעויות נפוצות בבגרות באנגלית ואיך להימנע מהן](https://bagrutai.co.il/blog/tayot-bagrut-anglit.html): הבנת הנקרא, כתיבה ודקדוק.
-- [תוכנית תרגול שבועית לבגרות: איך לבנות לוח זמנים שעובד](https://bagrutai.co.il/blog/tochnit-tirgul-shvuit-bagrut.html): בניית תוכנית תרגול ריאלית ומתעדכנת.
-- [מועד ב' בבגרות: מי זכאי ואיך להתכונן בזמן קצר](https://bagrutai.co.il/blog/moed-bet-bagrut.html): מי בדרך כלל זכאי, איך זה עובד, ותוכנית תרגול ממוקדת לזמן קצר.
-- [איך מחשבים ממוצע בגרות: המדריך הפשוט לציון הסופי](https://bagrutai.co.il/blog/chishuv-memutza-bagrut.html): ציון מגן, שקלול יחידות לימוד ודוגמה מספרית לחישוב ממוצע הבגרות.
+- [איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב](https://odeliayanay.github.io/hamitragelet/blog/matematika-bagrut-madrich.html): תוכנית עבודה מעשית למיפוי ידע, סדר עדיפויות ותרגול ממוקד.
+- [3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט](https://odeliayanay.github.io/hamitragelet/blog/kfum-yechidot-limud-matematika.html): ההבדלים בין רמות הלימוד ומה כדאי לשקול לפני שבוחרים.
+- [חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת](https://odeliayanay.github.io/hamitragelet/blog/hachadat-bechinot-bagrut.html): כלים מעשיים להתמודדות עם לחץ לפני ובמהלך בחינה.
+- [איך למידה אדפטיבית עם AI משנה את ההכנה לבגרות](https://odeliayanay.github.io/hamitragelet/blog/limud-adaptivi-im-ai.html): איך תרגול מותאם אישית עובד ומה הוא לא מחליף.
+- [טעויות נפוצות בבגרות באנגלית ואיך להימנע מהן](https://odeliayanay.github.io/hamitragelet/blog/tayot-bagrut-anglit.html): הבנת הנקרא, כתיבה ודקדוק.
+- [תוכנית תרגול שבועית לבגרות: איך לבנות לוח זמנים שעובד](https://odeliayanay.github.io/hamitragelet/blog/tochnit-tirgul-shvuit-bagrut.html): בניית תוכנית תרגול ריאלית ומתעדכנת.
+- [מועד ב' בבגרות: מי זכאי ואיך להתכונן בזמן קצר](https://odeliayanay.github.io/hamitragelet/blog/moed-bet-bagrut.html): מי בדרך כלל זכאי, איך זה עובד, ותוכנית תרגול ממוקדת לזמן קצר.
+- [איך מחשבים ממוצע בגרות: המדריך הפשוט לציון הסופי](https://odeliayanay.github.io/hamitragelet/blog/chishuv-memutza-bagrut.html): ציון מגן, שקלול יחידות לימוד ודוגמה מספרית לחישוב ממוצע הבגרות.
 
 ## מידע משפטי
 
@@ -48,3 +48,38 @@
 ## יצירת קשר
 
 support@bagrutai.co.il
+
+## קטגוריות הבלוג
+
+- [מתמטיקה לבגרות](https://odeliayanay.github.io/hamitragelet/blog/category-matematika.html): מדריכים להכנה לבגרות במתמטיקה — מיפוי פערים, סדר עדיפויות, גיאומטריה, דף הנוסחאות ותרגול ממוקד.
+- [אנגלית לבגרות](https://odeliayanay.github.io/hamitragelet/blog/category-anglit.html): הבנת הנקרא, משימת הכתיבה והטעויות שחוזרות שוב ושוב — ואיך להימנע מהן.
+- [מבנה הבגרות](https://odeliayanay.github.io/hamitragelet/blog/category-mivne-habagrut.html): איך בנויה מערכת הבגרויות: יחידות לימוד, חישוב ממוצע, מועד ב' וערעור על ציון.
+- [ניהול זמן ולוחות לימוד](https://odeliayanay.github.io/hamitragelet/blog/category-nihul-zman.html): לוחות זמנים שמחזיקים מעמד — תוכנית שבועית, החודש שלפני הבגרות, והפסקות שמחזירות ריכוז.
+- [רווחה נפשית בתקופת בגרויות](https://odeliayanay.github.io/hamitragelet/blog/category-revacha-nafshit.html): חרדת בחינות, דחיינות ושינה — הצד שקובע את הציון לא פחות מהחומר עצמו.
+- [שיטות למידה ולמידה עם AI](https://odeliayanay.github.io/hamitragelet/blog/category-lemida-ai.html): מה המחקר באמת מראה על שיטות למידה — תרגול שליפה, תרגול מרווח, ולמידה אדפטיבית.
+- [בחירת מסלול ומקצועות](https://odeliayanay.github.io/hamitragelet/blog/category-bchirat-maslul.html): כמה יחידות לקחת, מתי אפשר עוד לשנות, ואיך בוחרים מקצועות מוגברים בלי להתחרט.
+
+## כל המאמרים
+
+- [גיאומטריה בבגרות במתמטיקה: איך מפסיקים להיתקע בסעיף א'](https://odeliayanay.github.io/hamitragelet/blog/geometria-bagrut-matematika.html): למה דווקא בגיאומטריה נתקעים בהתחלה, ואיך בונים סדר פעולות קבוע שמוציא אתכם מהתקיעות במקום לבהות בשרטוט.
+- [דף הנוסחאות בבגרות במתמטיקה: מה מקבלים ומה כדאי לדעת בעל פה](https://odeliayanay.github.io/hamitragelet/blog/nuschaot-bagrut-matematika.html): דף הנוסחאות מגיע איתכם לבחינה, אבל הוא לא פותר במקומכם. מה באמת כדאי לזכור בעל פה, ואיך משתמשים בדף בלי לבזבז זמן.
+- [הבנת הנקרא באנגלית: איך עונים נכון בלי לקרוא כל מילה](https://odeliayanay.github.io/hamitragelet/blog/hbanat-hanikra-bagrut-anglit.html): בהבנת הנקרא בבגרות באנגלית לא בודקים אם הבנתם כל מילה, אלא אם מצאתם את התשובה. שיטת עבודה שחוסכת זמן ומעלה ניקוד.
+- [משימת הכתיבה בבגרות באנגלית: מבנה שמקבל ניקוד מלא](https://odeliayanay.github.io/hamitragelet/blog/ktiva-bagrut-anglit.html): בכתיבה באנגלית לא בודקים כמה מילים גדולות אתם מכירים, אלא אם ענִיתם על המשימה במבנה ברור. המבנה שעובד, ומה מוריד ניקוד.
+- [יחידות לימוד בבגרות: מה זה אומר בפועל ואיך זה משפיע על הציון](https://odeliayanay.github.io/hamitragelet/blog/yechidot-limud-bagrut.html): מה באמת אומרת יחידת לימוד, כמה יחידות צריך לתעודה, ולמה מקצוע מוגבר משפיע על הממוצע יותר ממקצוע רגיל.
+- [ערעור על ציון בגרות: מתי זה כדאי ואיך עושים את זה נכון](https://odeliayanay.github.io/hamitragelet/blog/ariur-bagrut.html): ערעור הוא בדיקה חוזרת של המחברת, לא הזדמנות שנייה. מתי יש סיכוי אמיתי לשינוי, מה התהליך, ומה חשוב לבדוק לפני שמגישים.
+- [חודש לפני הבגרות: איך לחלק את הזמן שנשאר](https://odeliayanay.github.io/hamitragelet/blog/chodesh-lifney-habagrut.html): תוכנית מעשית לארבעת השבועות האחרונים לפני הבחינה — מה עושים בכל שבוע, ממה להימנע, ואיך לא לשרוף את השבוע האחרון.
+- [הפסקות בזמן למידה: כמה, מתי, ולמה זה משנה את הציון](https://odeliayanay.github.io/hamitragelet/blog/hafsakot-lemida.html): למידה רצופה בלי הפסקות נראית מסורה, אבל היא מייצרת פחות. איך בונים מקצב של עבודה והפסקה שמחזיק שעות ולא שוחק.
+- [דחיינות לפני מבחן: למה זה קורה ואיך יוצאים מזה](https://odeliayanay.github.io/hamitragelet/blog/dchiyanut-lemida.html): דחיינות היא כמעט תמיד תגובה למשימה שמרגישה גדולה מדי או לא ברורה. איך מקטינים אותה לגודל שאפשר להתחיל בו.
+- [שינה לפני בגרות: מה באמת קורה כשלומדים כל הלילה](https://odeliayanay.github.io/hamitragelet/blog/sheina-lifney-bagrut.html): לילה לבן לפני בחינה מרגיש כמו השקעה אחרונה, אבל הוא פוגע בדיוק ביכולות שהבחינה בודקת. מה עדיף לעשות במקום.
+- [תרגול שליפה: שיטת הלמידה שהמחקר הכי תומך בה](https://odeliayanay.github.io/hamitragelet/blog/tirgul-shlifa.html): לבחון את עצמכם במקום לקרוא שוב הוא ההבדל הגדול ביותר בין למידה שמרגישה טוב ללמידה שנשארת. איך עושים את זה בפועל.
+- [תרגול מרווח: למה עדיף ללמוד מעט כל יום מאשר הכול בסוף](https://odeliayanay.github.io/hamitragelet/blog/tirgul-mruvach.html): אותן שעות לימוד, מפוזרות על פני שבועות במקום מרוכזות בערב אחד, מייצרות זיכרון עמיד הרבה יותר. איך בונים לוח חזרות שעובד.
+- [בחירת מקצועות מוגברים: איך בוחרים לפי מה שבאמת משנה](https://odeliayanay.github.io/hamitragelet/blog/bchirat-miktzoot-mugbarim.html): בחירת המוגברים משפיעה על הממוצע, על הקבלה ללימודים ועל העומס בכיתה י"ב. ארבעה שיקולים שכדאי לשקול לפני שסוגרים.
+- [הגדלת יחידות באמצע התיכון: מתי זה עוד אפשרי וכדאי](https://odeliayanay.github.io/hamitragelet/blog/hagdalat-yechidot.html): החלטתם שאתם רוצים יותר יחידות ממה שנרשמתם אליו. מה בודקים לפני, מה הפער האמיתי בחומר, ומתי עדיף לוותר.
+- [איך להתכונן לבגרות במתמטיקה: מדריך שלב־אחר־שלב](https://odeliayanay.github.io/hamitragelet/blog/matematika-bagrut-madrich.html): תוכנית עבודה מעשית להכנה לבגרות במתמטיקה: איך למפות מה שאתם יודעים, לבנות סדר עדיפויות לתרגול, ולהגיע למבחן בלי בהלה של הרגע האחרון.
+- [3, 4 או 5 יחידות מתמטיקה: איך בוחרים בלי להתחרט](https://odeliayanay.github.io/hamitragelet/blog/kfum-yechidot-limud-matematika.html): ההבדל בין 3, 4 ו-5 יחידות לימוד במתמטיקה, מה משפיע על הבחירה, ואיך בודקים אם המסלול שנבחר עדיין מתאים לכם באמצע השנה.
+- [חרדת בחינות בגרות: 7 טכניקות שעוזרות באמת](https://odeliayanay.github.io/hamitragelet/blog/hachadat-bechinot-bagrut.html): כלים מעשיים ומבוססים להתמודדות עם חרדת בחינות בגרות: נשימה, תרגול בתנאי מבחן, ניהול זמן במבחן, ומתי כדאי לפנות לעזרה מקצועית.
+- [איך למידה אדפטיבית עם AI משנה את ההכנה לבגרות](https://odeliayanay.github.io/hamitragelet/blog/limud-adaptivi-im-ai.html): מה זה למידה אדפטיבית, איך AI מזהה פערי ידע ובונה תוכנית תרגול מותאמת אישית, ומה חשוב לזכור כדי להשתמש בכלים כאלה בצורה נכונה.
+- [טעויות נפוצות בבגרות באנגלית ואיך להימנע מהן](https://odeliayanay.github.io/hamitragelet/blog/tayot-bagrut-anglit.html): הטעויות שחוזרות שוב ושוב בבגרות באנגלית — בהבנת הנקרא, בכתיבה ובדקדוק — וטיפים מעשיים להימנע מהן.
+- [תוכנית תרגול שבועית לבגרות: איך לבנות לוח זמנים שעובד](https://odeliayanay.github.io/hamitragelet/blog/tochnit-tirgul-shvuit-bagrut.html): איך בונים תוכנית תרגול שבועית ריאלית לבגרות: הערכת זמן פנוי, חלוקה לפי משקל המקצועות, ומרווחי חזרה שמונעים שכחה.
+- [מועד ב' בבגרות: מי זכאי ואיך להתכונן בזמן קצר](https://odeliayanay.github.io/hamitragelet/blog/moed-bet-bagrut.html): כל מה שכדאי לדעת על מועד ב' בבחינות הבגרות — מי זכאי לגשת, איך זה עובד, ואיך בונים תוכנית תרגול ממוקדת כשנשאר פחות זמן מהרגיל.
+- [איך מחשבים ממוצע בגרות: המדריך הפשוט לציון הסופי](https://odeliayanay.github.io/hamitragelet/blog/chishuv-memutza-bagrut.html): איך מחשבים את ציון הבגרות הסופי בכל מקצוע, מה זה ציון מגן, ואיך יחידות הלימוד משפיעות על ממוצע הבגרות — מדריך פשוט וברור עם דוגמה מספרית.
