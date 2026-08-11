@@ -384,3 +384,25 @@ section{padding:72px 0}
   .hero-media{order:-1}
   .cta-banner{text-align:center;justify-content:center;flex-direction:column}
 }
+
+
+/* ---------- סרגל קטגוריות הבלוג ---------- */
+.cat-strip{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 28px;padding-bottom:4px}
+.cat-strip a{
+  display:inline-block;padding:8px 16px;
+  border:1px solid var(--lavender-200);border-radius:var(--radius-pill);
+  font-size:15px;font-weight:600;text-decoration:none;
+  color:var(--indigo-900);background:var(--white);
+  transition:background .15s ease,border-color .15s ease,color .15s ease;
+  white-space:nowrap;
+}
+.cat-strip a:hover{border-color:var(--purple-600);color:var(--purple-600)}
+.cat-strip a.is-active{
+  background:linear-gradient(135deg,var(--purple-600),var(--blue-600));
+  border-color:var(--purple-600);color:#fff;
+}
+@media (max-width:640px){
+  .cat-strip{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .cat-strip::-webkit-scrollbar{display:none}
+  .cat-strip a{font-size:14px;padding:7px 14px}
+}
